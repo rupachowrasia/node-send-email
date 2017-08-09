@@ -1,0 +1,26 @@
+{
+  "name": "node-nodemailer",
+  "version": "1.0.0",
+  "description": "How to send email in node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "node-email",
+    "nodemailer",
+    "node-nodemailer",
+    "nodemailer"
+  ],
+  "author": "Rupa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "nodemailer": "^4.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
